@@ -1,4 +1,4 @@
-# Alpharigel Github Repo
+# Projects
 
 ## [Phonics Font](https://alpharigel.github.io/phonics-font/)
 
